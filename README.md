@@ -150,7 +150,7 @@ The approach aligns strongly with global trends in **AI for Dermatology** and **
 ## 👨‍💻 Author
 
 **Hamza Shahid**  
-Bachelor of Biomedical Engineering
+Bachelor of Biomedical Engineering (Biomedical Engineer)
 University of Engineering & Technology (UET), Lahore  
 
 🔍 Research Interests:  
